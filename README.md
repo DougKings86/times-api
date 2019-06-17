@@ -1,5 +1,5 @@
 # times-api
-Projeto utilizando node para exposição de Api para Consultas dos Times E Rodadas do Campeonato Brasileiro.
+Projeto utilizando com backend o [nodeJs](https://nodejs.org) para exposição de Api para Consultas dos Times E Rodadas do Campeonato Brasileiro.
 O projeto irá utilizar a arquitetura [REST](https://pt.wikipedia.org/wiki/REST) , e o retorno será no formato [JSON](https://pt.wikipedia.org/wiki/JSON).
 Nesse Contexto será utilizado somento o verbo GET.
 
