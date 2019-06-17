@@ -16,7 +16,7 @@ Nesse Contexto será utilizado somento o verbo GET.
 ### Listar todos os jogos do Campeonato Brasileiro:
 - Buscar Todos os Jogos :
 ```text
- api/championship
+ /api/championship
 ```
 Exemplo de Retorno : 
 
@@ -35,7 +35,7 @@ Exemplo de Retorno :
 
 - Filtrar Jogo por Rodada , onde id será o número da rodada :
 ```text
- api/championship/:id
+ /api/championship/:id
 ```
 
 Exemplo de Retorno : 
@@ -55,7 +55,7 @@ Exemplo de Retorno :
 ### Listar Times do Campeonato Campeonato Brasileiro:
 - Buscar Todos os Jogos :
 ```text
- api/teams
+ /api/teams
 ```
 
 Exemplo de Retorno : 
@@ -85,7 +85,7 @@ Exemplo de Retorno :
  ```   
 - Filtrar por  Time , onde id será o Código do time :
 ```text
- api/team/:id
+ /api/team/:id
 ```
 
 Exemplo de Retorno : 
